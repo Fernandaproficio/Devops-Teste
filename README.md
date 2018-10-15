@@ -32,13 +32,6 @@
 # Camada de Unidade:
 # ja na camada de unidade que sao testes leves onde consiste em validar dados validos e invalidos via entrada e saida é a parte da piramide onde é concentrada a maior parte dos testes
 # A relação da Piramide com o custo é que como o tester esta fazendo testes sobre camadas ele sabera aonde exatamente esta o problema e com isso ganha tempo no momento de acertar o programa.
-# Reproduzindo o diagrama:
-# Camada de Aceitação -
-# Testes mais lentos, frageis e complexos de escrever.
-# Camada de Integração -
-# O que foge do Escopo do teste de unidade mas nao chega no teste de aceitação, exemplo testes de api ou testes de integração
-# Camada de Unidade -
-# Testes "FACEIS" e rapidos de serem executados, indicam Exatamente ou quase onde esta o erro, garantem integridade das menores "peças" do sistema
 # 70% de testes unitários
 # 20% de testes de integração
 # 10% de testes de Aceitação
